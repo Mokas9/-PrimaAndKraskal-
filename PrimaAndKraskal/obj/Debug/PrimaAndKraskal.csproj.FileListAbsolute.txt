@@ -1,0 +1,30 @@
+D:\Visual Studio Projects\PrimaAndKraskal\PrimaAndKraskal\bin\Debug\PrimaAndKraskal.exe.config
+D:\Visual Studio Projects\PrimaAndKraskal\PrimaAndKraskal\bin\Debug\PrimaAndKraskal.exe
+D:\Visual Studio Projects\PrimaAndKraskal\PrimaAndKraskal\bin\Debug\PrimaAndKraskal.pdb
+D:\Visual Studio Projects\PrimaAndKraskal\PrimaAndKraskal\obj\Debug\PrimaAndKraskal.csprojResolveAssemblyReference.cache
+D:\Visual Studio Projects\PrimaAndKraskal\PrimaAndKraskal\obj\Debug\PrimaAndKraskal.Form1.resources
+D:\Visual Studio Projects\PrimaAndKraskal\PrimaAndKraskal\obj\Debug\PrimaAndKraskal.Properties.Resources.resources
+D:\Visual Studio Projects\PrimaAndKraskal\PrimaAndKraskal\obj\Debug\PrimaAndKraskal.csproj.GenerateResource.Cache
+D:\Visual Studio Projects\PrimaAndKraskal\PrimaAndKraskal\obj\Debug\PrimaAndKraskal.exe
+D:\Visual Studio Projects\PrimaAndKraskal\PrimaAndKraskal\obj\Debug\PrimaAndKraskal.pdb
+D:\Visual Studio Projects\PrimaAndKraskal\PrimaAndKraskal\obj\Debug\Interop.MSForms.dll
+D:\Visual Studio Projects\PrimaAndKraskal\PrimaAndKraskal\obj\Debug\PrimaAndKraskal.csproj.ResolveComReference.cache
+D:\Visual Studio Projects\PrimaAndKraskal\PrimaAndKraskal\obj\Debug\Interop.VBIDE.dll
+D:\Visual Studio Projects\PrimaAndKraskal\PrimaAndKraskal\bin\Debug\DocX.dll
+C:\Users\Администратор\Desktop\PrimaAndKraskal\PrimaAndKraskal\bin\Debug\PrimaAndKraskal.exe.config
+C:\Users\Администратор\Desktop\PrimaAndKraskal\PrimaAndKraskal\obj\Debug\Interop.MSForms.dll
+C:\Users\Администратор\Desktop\PrimaAndKraskal\PrimaAndKraskal\obj\Debug\Interop.VBIDE.dll
+C:\Users\Администратор\Desktop\PrimaAndKraskal\PrimaAndKraskal\obj\Debug\PrimaAndKraskal.csproj.ResolveComReference.cache
+C:\Users\Администратор\Desktop\PrimaAndKraskal\PrimaAndKraskal\obj\Debug\PrimaAndKraskal.exe
+C:\Users\Администратор\Desktop\PrimaAndKraskal\PrimaAndKraskal\obj\Debug\PrimaAndKraskal.pdb
+C:\Users\Администратор\Desktop\PrimaAndKraskal\PrimaAndKraskal\bin\Debug\PrimaAndKraskal.exe
+C:\Users\Администратор\Desktop\PrimaAndKraskal\PrimaAndKraskal\bin\Debug\PrimaAndKraskal.pdb
+C:\Users\Администратор\Desktop\PrimaAndKraskal\PrimaAndKraskal\obj\Debug\PrimaAndKraskal.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\PrimaAndKraskal\PrimaAndKraskal\obj\Debug\PrimaAndKraskal.Form1.resources
+C:\Users\Администратор\Desktop\PrimaAndKraskal\PrimaAndKraskal\obj\Debug\PrimaAndKraskal.Properties.Resources.resources
+C:\Users\Администратор\Desktop\PrimaAndKraskal\PrimaAndKraskal\obj\Debug\PrimaAndKraskal.csproj.GenerateResource.Cache
+D:\!БИБЛИОТЕКА\МГВРК\3 КУРС\КПиЯП\Проекты С#\[PrimaAndKraskal]\PrimaAndKraskal\bin\Debug\PrimaAndKraskal.exe.config
+D:\!БИБЛИОТЕКА\МГВРК\3 КУРС\КПиЯП\Проекты С#\[PrimaAndKraskal]\PrimaAndKraskal\obj\Debug\Interop.VBIDE.dll
+D:\!БИБЛИОТЕКА\МГВРК\3 КУРС\КПиЯП\Проекты С#\[PrimaAndKraskal]\PrimaAndKraskal\obj\Debug\PrimaAndKraskal.csproj.ResolveComReference.cache
+D:\!БИБЛИОТЕКА\МГВРК\3 КУРС\КПиЯП\Проекты С#\[PrimaAndKraskal]\PrimaAndKraskal\obj\Debug\PrimaAndKraskal.exe
+D:\!БИБЛИОТЕКА\МГВРК\3 КУРС\КПиЯП\Проекты С#\[PrimaAndKraskal]\PrimaAndKraskal\obj\Debug\PrimaAndKraskal.pdb
